@@ -29,7 +29,7 @@ OS: Windows 11 / POP! OS
 Location: Arujá, SP - Brazil
 Skills: HTML, CSS, JS, AI
 Hobbies: Drawing, Design, Coding, Art
-
+```
 
 <div align="center">
   <a href="#">
