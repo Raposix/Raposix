@@ -11,7 +11,6 @@
 
 ### 🦊 About me
 
-🎓 14 years old student  
 🧠 Math olympiad medalist  
 🎨 Future graphic designer  
 💻 Passionate about web development  
