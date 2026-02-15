@@ -32,7 +32,7 @@ Hobbies: Drawing, Design, Coding, Art
 
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Sala+das+paredes" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Sala+das+paredes!" />
   </a>
 </div>
 
